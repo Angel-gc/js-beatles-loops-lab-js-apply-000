@@ -16,7 +16,7 @@ function johnLennonFacts(facts){
   let results = [];
   let count = 0;
   
-  while (count < 0){
+  while (count < facts.length){
     
   }
 }
