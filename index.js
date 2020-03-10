@@ -17,7 +17,16 @@ function johnLennonFacts(facts){
   let count = 0;
   
   while (count < facts.length){
-    
+    results.push(facts[count] + "!!!");
+    count++;
   }
+  return results;
+}
+
+function iLoveTheBeatles(number){
+  let array = [];
+  
+  
+  
 }
 
