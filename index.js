@@ -12,8 +12,10 @@ function theBeatlesPlay(musicians, instrument){
   return musicianList
 }
 
-function johnLennonFacts(johnLennonFacts){
-  while (johnLennonFacts.length-1){
+function johnLennonFacts(facts){
+  
+  
+  while (){
     
   }
 }
