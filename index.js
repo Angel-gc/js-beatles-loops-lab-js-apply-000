@@ -1,5 +1,5 @@
 // add solution here
-function theBeatlesPlay(musicians, instruments){
+function theBeatlesPlay(musicians, instrument){
   let musicianList = [];
   
   for (let i = 0; i < musicians.length; i++){
